@@ -59,6 +59,10 @@ addPostcards(interactive_map);
 // Add more marker layer
 addRecordings(interactive_map);
 
+// Step 3.5 (optional):
+// Add more marker layer
+addSecrets(interactive_map);
+
 // Step 4:
 // Finalize the map after adding all layers.
 interactive_map.finalize();
