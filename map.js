@@ -19,7 +19,6 @@ var interactive_map = new InteractiveMap('map', {
     <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2726060159">Images and description</a> used by <a href="https://steamcommunity.com/profiles/76561198831803856">Kova</a></li>
     <li><a href="https://www.nexusmods.com/deadisland/images/42/">Map</a> used by <a href="https://www.nexusmods.com/deadisland/users/730424">rataje</a></li>
     <li><a href="https://www.nexusmods.com/deadisland/images/43/">Map</a> used by <a href="https://www.nexusmods.com/deadisland/users/730424">rataje</a></li>
-    <li>This project uses sample images from <a href="https://picsum.photos/">picsum.photos</a></li>
 `
 });
 
@@ -32,7 +31,7 @@ var interactive_map = new InteractiveMap('map', {
 interactive_map.addTileLayer('Ingame map', {
     minNativeZoom: 2,
     maxNativeZoom: 4,
-    attribution: 'Map from <a href="https://www.example.com/index.html">$source</a>'
+    attribution: 'Map from <a href="https://www.nexusmods.com/deadisland/images/42/">rataje</a>'
 });
 
 // Step 2.5 (optional):
