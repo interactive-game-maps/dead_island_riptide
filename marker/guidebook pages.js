@@ -163,8 +163,8 @@ var guidebooks = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.375,
-                    -90.875
+                    14.5625,
+                    -108.9375
                 ]
             }
         }
