@@ -102,8 +102,8 @@ var recordings = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.4375,
-                    -99.125
+                    13.5,
+                    -143.9375
                 ]
             }
         }

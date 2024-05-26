@@ -3,8 +3,8 @@
       <Title>map_jungle_ferry.webp</Title>
       <Abstract></Abstract>
       <SRS></SRS>
-      <BoundingBox minx="0.00000000000000" miny="-2352.00000000000000" maxx="2226.00000000000000" maxy="0.00000000000000"/>
-      <Origin x="0.00000000000000" y="-2352.00000000000000"/>
+      <BoundingBox minx="0.00000000000000" miny="-2480.00000000000000" maxx="2226.00000000000000" maxy="0.00000000000000"/>
+      <Origin x="0.00000000000000" y="-2480.00000000000000"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="raster">
         <TileSet href="0" units-per-pixel="16.00000000000000" order="0"/>
