@@ -53,6 +53,10 @@ addGuidebooks(interactive_map);
 
 // Step 3.5 (optional):
 // Add more marker layer
+addMonsters(interactive_map);
+
+// Step 3.5 (optional):
+// Add more marker layer
 addPostcards(interactive_map);
 
 // Step 3.5 (optional):
